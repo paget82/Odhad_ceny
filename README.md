@@ -14,5 +14,15 @@ Cílem tohoto projektu je vytvořit model, který na základě velikosti bytu od
 
 
 ## 📌 Závěr
+
+- **Koeficient (sklon):** `5039,77`  
+  → Každé 1 m² navíc zvyšuje cenu o cca 5000 $
+
+- **MAE (průměrná chyba):** `1 041 410 $`  
+  → Model se v průměru mýlí o více než 1 milion $
+
+- **R²:** `0,39`  
+  → Model vysvětluje jen 39 % variability cen
+
 Model ukázal, že velikost bytu má nějaký vliv na cenu, ale ne dostatečný pro přesné predikce.  
 Doporučuji přidat další faktory (např. lokalita, počet pokojů, vybavení) a vyzkoušet pokročilejší metody strojového učení pro lepší výsledky.
