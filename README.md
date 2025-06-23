@@ -24,7 +24,6 @@ Cílem tohoto projektu je vytvořit model, který na základě velikosti bytu od
 - **R²:** `0,39`  
   → Model vysvětluje jen 39 % variability cen
 
-####  Hodnocení:
 Model je nepřesný – **jen velikost nestačí** k odhadu ceny. Výsledky jsou slabé.
 
 ####  Doporučení:
